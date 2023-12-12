@@ -1,4 +1,4 @@
 .venv
 .vscode
-demo.md
+*.demo.md
 __pycache__
